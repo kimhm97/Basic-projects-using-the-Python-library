@@ -70,7 +70,7 @@ python src/run_summarization_small.py
 ```
 
 * `train_small.csv` 기반
-* 1~2분 내 완료 가능 (GPU 사용 시 더 빠름)
+* 120분 내 완료 가능 (GPU 사용 시 더 빠름)
 
 ### 전체 데이터 요약 
 
