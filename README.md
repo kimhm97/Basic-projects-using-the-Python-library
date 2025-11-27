@@ -15,6 +15,12 @@ Hugging Face Transformers 모델을 활용해 한국어 뉴스 기사를 자동�
 -뉴스 요약, 데이터 처리 및 자연어 처리(NLP)-
 
 ---
+## 프로젝트 목적
+
+한국어 뉴스 기사 자동 요약
+
+# Hugging Face Transformers의 Seq2Seq 모델(facebook/bart-large-cnn) 활용
+# CSV 파일(train.csv)을 읽어서 요약 후, 새로운 CSV(summarized.csv)로 저장
 
 ## 🗂 프로젝트 구조
 
